@@ -28,7 +28,7 @@ twitter_username: wohnzimmerchorregensburg
 github_username:  WohnzimmerchorRegensburg
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal.
 plugins:
   - jekyll-feed
 
