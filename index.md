@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to the Wohnzimmerchor!"
+title: "Wohnzimmerchor Regensburg e.V."
 ---
 
-Willkommen auf der offiziennel Website des Wohnzimmerchor Regensburg e.V.!
+Willkommen auf der offiziellen Website des Wohnzimmerchor Regensburg e.V.!
