@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Über Uns"
 permalink: /about_us/
 ---
-
-# Über Uns
 
 Der Wohnzimmerchor Regensburg e.V. ist ein lebendiger und engagierter Chor, der sich auf moderne Chormusik spezialisiert hat. Wir sind eine Gemeinschaft von Musikliebhabern, die sich regelmäßig treffen, um gemeinsam zu singen und Auftritte zu gestalten.
 

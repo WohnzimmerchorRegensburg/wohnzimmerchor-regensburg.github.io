@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Kontakt"
 permalink: /contact/
 ---
-
-# Kontakt
 
 Haben Sie Fragen oder möchten Sie uns kontaktieren? Wir freuen uns auf Ihre Nachricht!
 

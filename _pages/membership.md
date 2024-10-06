@@ -1,10 +1,7 @@
 ---
-layout: page
 title: "Mitglied werden"
 permalink: /membership/
 ---
-
-# Mitglied werden
 
 Möchten Sie dem Wohnzimmerchor Regensburg beitreten? Wir freuen uns immer über neue Mitglieder, die Freude am Singen und an der Gemeinschaft haben!
 
