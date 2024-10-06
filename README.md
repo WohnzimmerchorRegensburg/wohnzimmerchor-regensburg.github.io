@@ -1,1 +1,1 @@
-# wohnzimmerchor-regensburg.github.io
+# Website des Wohnzimmerchor Regensburg e.V.
