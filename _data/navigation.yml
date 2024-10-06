@@ -1,0 +1,12 @@
+main:
+  - title: "Startseite"
+    url: /
+  - title: "Über Uns"
+    url: /about_us/
+  - title: "News"
+    url: /news/
+  - title: "Mitglied werden"
+    url: /membership/
+  - title: "Kontakt"
+    url: /contact/
+
